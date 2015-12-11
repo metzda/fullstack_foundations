@@ -1,2 +1,1 @@
-Readme basics
-more text here
+Guessing game assignment for Fullstack Foundations class.
